@@ -1,0 +1,20 @@
+[
+			{ 
+				"type": "Condo",
+				"price": 3124,
+				"address": "213 Grove Street",
+				"description": "Great home, and totally worth it!"
+			},
+			{ 
+				"type": "Condo",
+				"price": 35345,
+				"address": "6345 Apple Street",
+				"description": "So Amazing."
+			},
+			{ 
+				"type": "Condo",
+				"price": 6457457,
+				"address": "23523 Beast Street",
+				"description": "This home was meant for a beast!"
+			}
+]
